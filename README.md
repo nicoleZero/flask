@@ -1,2 +1,4 @@
 # flask
-Junior script fpr flask
+Junior script for flask
+version:python36
+
